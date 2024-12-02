@@ -1,2 +1,2 @@
-# Marmara BYS timeout evasion
-Tempermonkey file to evade Marmara BYS timeout
+# Marmara BYS timeout editor
+Tempermonkey file to edit Marmara BYS timeout
